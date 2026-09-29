@@ -2,7 +2,7 @@
 title: 卡尔曼滤波
 description: 
 published: true
-date: 2026-09-29T04:39:51.331Z
+date: 2026-09-29T04:40:43.946Z
 tags: 观测器, 估计, 卡尔曼滤波, 电控, 算法
 editor: markdown
 dateCreated: 2026-09-20T14:17:42.425Z
@@ -23,8 +23,6 @@ dateCreated: 2026-09-20T14:17:42.425Z
 3. 根据比对结果，按比例综合预测值和测量值，得出结果（通过动态权重调整，权衡预测与测量的可信度）
 
 <h2 style = "text-align: center">前置知识</h2>
-
----
 
 ### 状态、状态转移方程
 
@@ -53,8 +51,6 @@ $$
 - 正负：正数正相关，负数负相关
 
 <h2 style = "text-align: center">卡尔曼滤波</h2>
-
----
 
 卡尔曼滤波主要分两个部分，预测和更新，通过递归迭代实现对动态系统状态的持续优化估计。
 
@@ -212,8 +208,6 @@ $$
 ${P}_k^+$ 会作用在，下一时刻的预测步，最终完成迭代。
 
 <h2 style = "text-align: center">引用</h2>
-
----
 
 -   [【卡尔曼滤波（Kalman Filter）原理与公式推导】- 知乎](https://zhuanlan.zhihu.com/p/48876718)
 -   [【从全状态观测器到卡尔曼滤波器（一）】- 知乎](https://zhuanlan.zhihu.com/p/338269917)
