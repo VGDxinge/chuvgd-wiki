@@ -2,8 +2,8 @@
 title: 卡尔曼滤波
 description: 
 published: true
-date: 2026-09-20T17:57:56.659Z
-tags: 
+date: 2026-09-29T04:39:51.331Z
+tags: 观测器, 估计, 卡尔曼滤波, 电控, 算法
 editor: markdown
 dateCreated: 2026-09-20T14:17:42.425Z
 ---
