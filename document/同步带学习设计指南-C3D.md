@@ -2,8 +2,8 @@
 title: 同步带学习设计指南
 description: 机械
 published: true
-date: 2026-09-29T04:36:18.194Z
-tags: 
+date: 2026-09-29T04:36:51.136Z
+tags: 机械, 同步带
 editor: markdown
 dateCreated: 2026-09-26T07:24:53.845Z
 ---
